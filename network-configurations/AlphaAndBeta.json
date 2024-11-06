@@ -2765,7 +2765,7 @@
             "event_seed": 294,
             "conn_seed": 3,
             "dynamics": {
-                "tstart": 50.0,
+                "tstart": 100.0,
                 "tstart_std": 0.0,
                 "tstop": 710.0,
                 "burst_rate": 10.0,
